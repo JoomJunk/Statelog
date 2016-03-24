@@ -3,7 +3,7 @@
 	<name>plg_content_jj_statelog</name>
     <author>JoomJunk</author>
     <creationDate>05-Mar-2012</creationDate>
-    <copyright>Copyright (C) 2011 - 2013 JoomJunk</copyright>
+    <copyright>Copyright (C) 2011 - 2016 JoomJunk</copyright>
     <license>http://www.gnu.org/licenses/gpl-3.0.html</license>
     <authorEmail>admin@joomjunk.co.uk</authorEmail>
     <authorUrl>http://www.joomjunk.co.uk</authorUrl>
@@ -21,6 +21,8 @@
 	<languages>
 		<language tag="en-GB">language/en-GB/en-GB.plg_content_statelog.ini</language>
 		<language tag="en-GB">language/en-GB/en-GB.plg_content_statelog.sys.ini</language>
+		<language tag="fr-FR">language/fr-FR/fr-FR.plg_content_statelog.ini</language>
+		<language tag="fr-FR">language/fr-FR/fr-FR.plg_content_statelog.sys.ini</language>
 	</languages>
 	<config>
 		<fields name="params">
